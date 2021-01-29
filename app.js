@@ -1,4 +1,4 @@
-  let url = 'http://feeds.bbci.co.uk/news/technology/rss.xml';
+  let url = 'https://bridge.rmendes.net/?action=display&bridge=Facebook&context=Group&g=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fdavanac%2F&limit=-1&_cache_timeout=300&format=Mrss';
   const textarea = document.querySelector('#feed-textarea > ul');
 
   const date = new Date();
